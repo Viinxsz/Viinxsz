@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre me
 ## 📈 Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viinxsz&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/Flavio-Lamas=Viinxsz&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+
 </p>
 
 ## 📫 Contato
