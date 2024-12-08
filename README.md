@@ -3,9 +3,9 @@
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre meus projetos, interesses e contribuições para a comunidade de código aberto.
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de [sua área ou curso].
-- 💻 Apaixonado por [tecnologias ou temas que você gosta].
-- 🌱 Atualmente aprendendo [algo novo que está estudando].
+- 🎓 Estudante de [Tecnologia].
+- 💻 Apaixonado por [tecnologias code e animais].
+- 🌱 Atualmente aprendendo [Deep Learning e Artificial Intelligence ].
 
 ## 🔧 Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará informações sobre me
 </p>
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/SEU_PERFIL)
+- [LinkedIn](https://www.linkedin.com/in/flávio-lamas-73b2b6302/)
 - [Portfólio](https://SEU_SITE.com)
 <!--
 **Viinxsz/Viinxsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
